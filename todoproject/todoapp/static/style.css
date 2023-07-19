@@ -1,0 +1,12 @@
+.banner{
+    background-color:SlateBlue;
+    width:1200px;
+    height:150px;
+    margin-bottom:50px;
+}
+.banner-text{
+top:50%;
+left:50%;
+position:absolute;
+transform:transform;
+}
